@@ -2,7 +2,9 @@
 This repository contains UI test automation using:
 
 Playwright – Fast and reliable browser automation
+
 Python – Clean and maintainable test scripts
+
 Allure Report – Detailed and interactive test reporting
 
 
